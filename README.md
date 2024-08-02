@@ -23,5 +23,4 @@ Modifying player expected values and minutes (EV and xMins) or using other sourc
 - Continuous feedback and collaboration with members of the fantasy football analytics community
 
 ### Future plans
-- Add a user interface to streamline the team entry process
 - Incorporate FA Cup games
